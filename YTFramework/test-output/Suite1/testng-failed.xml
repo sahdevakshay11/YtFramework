@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test name="Command line test 73526fe8-328a-47a0-ac11-1807e474ab97(failed)">
+    <classes>
+      <class name="org.testing.TestScripts.TC4">
+        <methods>
+          <include name="webelementLocating"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC4 -->
+      <class name="org.testing.TestScripts.TC6">
+        <methods>
+          <include name="WebElementLocating"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC6 -->
+      <class name="org.testing.TestScripts.TC1">
+        <methods>
+          <include name="webelementLocating"/>
+          <include name="BrowserLaunch"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC1 -->
+      <class name="org.testing.TestScripts.TC8">
+        <methods>
+          <include name="WebElementLocating"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC8 -->
+      <class name="org.testing.TestScripts.TC5">
+        <methods>
+          <include name="WebElementLocating"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC5 -->
+      <class name="org.testing.TestScripts.TC2">
+        <methods>
+          <include name="webelementLocating"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC2 -->
+      <class name="org.testing.TestScripts.TC3">
+        <methods>
+          <include name="webelementLocating"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC3 -->
+      <class name="org.testing.TestScripts.TC7">
+        <methods>
+          <include name="WebElementLocating"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.TC7 -->
+    </classes>
+  </test> <!-- Command line test 73526fe8-328a-47a0-ac11-1807e474ab97(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
