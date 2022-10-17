@@ -9,7 +9,7 @@ public class fourth {
 			for(int j=1;j<=i;j++){
 				
 				count=count+1;
-				System.out.print(count+" ");
+				System.out.print(count+"  ");
 			}
 			System.out.println();
 		}
