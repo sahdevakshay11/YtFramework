@@ -7,7 +7,7 @@ public class DropDownHandling {
 	
 	public static void dropdownwithindex(int index,WebElement element){
 		Select s=new Select(element);
-		s.deselectByIndex(index);
+		s.selectByIndex(index);
 	}
 	
 public static void dropdownwithValue(String value,WebElement element){
